@@ -49,3 +49,7 @@ Para varredura completa de links em massa e inspecao em tempo real:
 ## Consultoria em Arquitetura de Links e SEO Tecnico
 
 Para saneamento de arquitetura de URLs e conformidade com Diretrizes de Qualidade Google Search Central e W3C URI Guidelines, contate os especialistas da **TAVARDT Brasil**.
+
+***
+
+© 2026 TAVARDT. Todos os direitos reservados.
