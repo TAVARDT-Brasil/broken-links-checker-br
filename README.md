@@ -5,7 +5,7 @@
 
 Auditoria automatizada de hiperligacoes internas e externas, mapeamento de codigos de resposta HTTP e prevencao de perda de autoridade de busca.
 
-Desenvolvido e mantido pela divisao de rastreamento e arquitetura de dados da **TAVARDT Brasil**.
+Desenvolvido e mantido pela divisao de rastreamento e arquitetura de dados da **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python broken_links_scanner.py https://empresa.com.br -json
 Para varredura completa de links em massa e inspecao em tempo real:
 
 * **Verificador de Links Quebrados Oficial**
-* **[Portal Corporativo TAVARDT Brasil](https://ag.tavardt.com/br/)**
+* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/br/)**
 
 ***
 
 ## Consultoria em Arquitetura de Links e SEO Tecnico
 
-Para saneamento de arquitetura de URLs e conformidade com Diretrizes de Qualidade Google Search Central e W3C URI Guidelines, contate os especialistas da **TAVARDT Brasil**.
+Para saneamento de arquitetura de URLs e conformidade com Diretrizes de Qualidade Google Search Central e W3C URI Guidelines, contate os especialistas da **TAVARDT**.
 
 ***
 
